@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demo
+  session:
+    store-type: none
+
+server:
+  port: 8083
+
+credentials:
+  username: admin
+  password: password123
